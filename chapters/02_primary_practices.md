@@ -720,7 +720,7 @@ See the UC Davis Library's [Research Data Management Guide][library-rdm-backups]
 (use-version-control)=
 ### Use Version Control
 
-**Version control** is the act of tracking changes to your files. There are a few common **version control systems** that you can use to track changes to your research documents, code, and other data. 
+**Version control** is the act of tracking changes to your files. There are a few common **version control systems** that you can use to track changes to your research files, including your documentation, code, and data. 
 
 ### Manual Version Control
 
@@ -770,6 +770,9 @@ recommends that you do too.
 [so-vcs-survey]: https://stackoverflow.blog/2023/01/09/beyond-git-the-other-version-control-systems-developers-use/
 [Git]: https://git-scm.com/
 
+:::{note}
+Git and other version control software can manage versions of all file types. While this software also facilitates direct comparisons across different versions of your documentation and code files so you can quickly and reliably identify exactly what changed, it generally does not track specific changes within spreadsheet, image, and video files.
+:::
 
 :::{seealso}
 See the UC Davis Library's [Research Data Management Guide][rdm-version-control] for an overview of  version control systems, and DataLab's [Introduction to Version Control workshop reader][intro-vcs] for
