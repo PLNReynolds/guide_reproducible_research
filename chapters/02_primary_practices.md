@@ -720,7 +720,7 @@ See the UC Davis Library's [Research Data Management Guide][library-rdm-backups]
 (use-version-control)=
 ### Use Version Control
 
-**Version control** is the act of tracking changes to your files. There are a few common **version control systems** that you can use to track changes to your research files, including your documentation, code, and data. 
+**Version control** is the act of tracking changes to your files. By capturing and timestamping all changes to the project files, version control allows for a complete audit and reconstruction of the project and is thus a cornerstone of reproducibility practices. Projects that use version control allow you to follow the exact course of the research from original data to analysis, interpretation, and final product as well as identify exactly when and why a specific file or result changed. There are a few common **version control systems** that you can use to track changes to your research files, including your documentation, code, and data. 
 
 ### Manual Version Control
 
