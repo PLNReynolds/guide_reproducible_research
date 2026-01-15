@@ -739,9 +739,9 @@ consider using [LibreOffice][], which also has version control built-in.
 
 #### Version Control Software
 
-The most consistent, precise, and less error-prone approach is to use software specifically designed for version control. In computing contexts, when people say "version control," it's often
+The most consistent and precise approach is to use software specifically designed for version control. In computing contexts, when people say "version control," it's often
 implied that they mean a version control system that uses software designed for that purpose. In addition to helping you keep track of different versions of files, most modern version control software
-can also help you share and collaborate on files with others.
+can also help you share and collaborate on files with others. The most common version control software and cloud sharing platform are Git and GitHub.
 
 Version control systems for code first appeared in the 1960s and are now widely
 considered an essential part of every programmer's toolkit. One reason for this
