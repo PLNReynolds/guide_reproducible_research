@@ -177,7 +177,7 @@ as in linkable journal articles or technical reports). For projects with a deep 
 structure, additional READMEs in important directories can be helpful for
 navigating their contents. For projects with technical details that are not
 explained elsewhere, it's a good idea to provide additional documentation in
-the form of READMEs or other files.
+the form of READMEs or other files, such as file manifests and data dictionaries (see below).
 
 :::{seealso}
 See DataLab's [README, Write Me! workshop reader][datalab-readme] for more
@@ -185,6 +185,7 @@ about how to write READMEs.
 :::
 
 [datalab-readme]: https://ucdavisdatalab.github.io/workshop_how-to-data-documentation/
+
 
 (file-manifests)=
 #### File Manifests
