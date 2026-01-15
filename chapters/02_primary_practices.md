@@ -189,7 +189,7 @@ about how to write READMEs.
 (file-manifests)=
 #### File Manifests
 
-A **file manifest** is a description of the files and directories in a project.
+It's good practice to include a file manifest in your project README, and whenever you share files. A **file manifest** is a description of the files and directories in a project.
 This list is analogous to the shipping manifest on a box your receive in the mail. Just as the shipping manifest lists all the items in the box, the file manifest lists all files in a project directory. A
 file manifest serves two important purposes:
 
