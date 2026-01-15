@@ -732,7 +732,7 @@ as a kind of ad-hoc version control system. This could look like using a standar
 Cloud-based office suites such as Microsoft 365 OneDrive, Google Office and Box include built-in version history features that allow you to revert to older versions of a file. This version control system can work effectively, assuming you have access to the platform and are able to store all your work there. It also requires you, and anyone else working on the file, to have reliable internet access. A disadvantage of these services is that they typically save
 documents in proprietary formats that may not be accessible to some people, and
 they do not necessarily preserve version information when you download a
-document from the cloud to work with it locally on your machine. For an open-source, desktop-based alternative,
+document from the cloud to work with it locally on your machine. These cloud services also facilitate collaboration, assuming all members of the team have access to the tools. For an open-source, desktop-based alternative,
 consider using [LibreOffice][], which also has version control built-in.
 
 [LibreOffice]: https://www.libreoffice.org/
