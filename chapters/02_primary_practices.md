@@ -139,7 +139,7 @@ A **README** is one of the most important documents in your research project. Th
 within a project. READMEs should generally be plain-text (`.txt`) or Markdown
 (`.md`) file format because these are non-proprietary formats meaning they are accessible to anyone
 with a text editor regardless of their operating system and environment. READMEs help people---including future you---discover, understand, and use
-your project.
+your project. Thus READMEs are one of the most important documents you can write to make your work reproducible.
 
 ```{tip}
 Each time you start a new project, create a new directory for the project. Use
